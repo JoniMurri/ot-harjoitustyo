@@ -5,4 +5,5 @@ Tässä on otsikko:
 > **Tässä** on **O**tsikko
 >
 > ~~Otsikko~~
-[laskarit/viikko1/gitlog.txt]
+[GitHub Pages](https://github.com/JoniMurri/ot-harjoitustyo/blob/main/laskarit/viikko1/gitlog.txt)
+> 
