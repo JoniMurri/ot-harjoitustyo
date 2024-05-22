@@ -1,6 +1,7 @@
-"# ot-harjoitustyo" 
-#Otsikko
->tassa on otsikko
->**Tassa** on **O**tsikko>
->~~Otsikko~~
+# OT-harjoitustyö
 
+## Otsikko
+Tässä on otsikko:
+> **Tässä** on **O**tsikko
+>
+> ~~Otsikko~~
