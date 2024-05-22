@@ -1,3 +1,2 @@
-commit 8e1fcc44e74e705badb5bcf39aec817d0834a2af (HEAD -> main, origin/main)
-Author: Joni Muranen <2306093@edu.karelia.fi>
+
 Date:   Wed May 22 10:25:26 2024 +0300
