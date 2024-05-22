@@ -1,4 +1,4 @@
-Volume serial number is D472-1749
+
 C:.
 └───laskarit
     └───viikko1
